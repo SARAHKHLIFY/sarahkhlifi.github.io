@@ -473,6 +473,10 @@ section {
     font-family: "Poppins", sans-serif;
     color: #121111;
 }
+.col-lg-4 {
+    height: 196px;!important
+    width: 100%;!important
+}
 
 /*--------------------------------------------------------------
 # Resume
@@ -772,4 +776,7 @@ section {
 }
 .img-thumbnail {
     border-radius: 50% !important;
+        border-radius: 50% !important;
+    height: 100%;
+    margin-left: 76px;
 }
